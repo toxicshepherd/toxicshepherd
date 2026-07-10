@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="835" height="351" viewBox="0 0 835 351" role="img" aria-label="GitHub profile card">
+<style>text{font-family:'Courier New',Courier,'DejaVu Sans Mono',monospace;font-size:12px;white-space:pre;font-variant-ligatures:none}.art{fill:#8b949e}.label{fill:#58a6ff}.muted{fill:#484f58}.value{fill:#c9d1d9}.title{fill:#d2a8ff}.num{fill:#79c0ff}.green{fill:#3fb950}.red{fill:#f85149}.orange{fill:#d29922}</style>
+<rect x="0.5" y="0.5" width="834" height="350" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text class="art" x="18" y="45" xml:space="preserve">              @@@@%%%###***++=</text>
+<text class="art" x="18" y="60" xml:space="preserve">           @@@@@@@%%####***+++==-</text>
+<text class="art" x="18" y="75" xml:space="preserve">         @@@@@@@@%%####****+++==--:</text>
+<text class="art" x="18" y="90" xml:space="preserve">       @@@@@@@@%%####****++++===--::.</text>
+<text class="art" x="18" y="105" xml:space="preserve">      %@@@@@%%%#####****++++===---::..</text>
+<text class="art" x="18" y="120" xml:space="preserve">     %%%%%%%######****++++====---::....</text>
+<text class="art" x="18" y="135" xml:space="preserve">    ###########*****+++++===----::......</text>
+<text class="art" x="18" y="150" xml:space="preserve">    ########******+++++====---:::.......</text>
+<text class="art" x="18" y="165" xml:space="preserve">   ************+++++=====---::::.........</text>
+<text class="art" x="18" y="180" xml:space="preserve">   +********++++++====----::::...........</text>
+<text class="art" x="18" y="195" xml:space="preserve">   ++++++++++++=====----::::.............</text>
+<text class="art" x="18" y="210" xml:space="preserve">   =++++++=======-----::::...............</text>
+<text class="art" x="18" y="225" xml:space="preserve">    =========------::::.................</text>
+<text class="art" x="18" y="240" xml:space="preserve">    ------------:::::...................</text>
+<text class="art" x="18" y="255" xml:space="preserve">     :----:::::::......................</text>
+<text class="art" x="18" y="270" xml:space="preserve">      :::::::.........................</text>
+<text class="art" x="18" y="285" xml:space="preserve">       ..............................</text>
+<text class="art" x="18" y="300" xml:space="preserve">         ..........................</text>
+<text class="art" x="18" y="315" xml:space="preserve">           ......................</text>
+<text class="art" x="18" y="330" xml:space="preserve">              ................</text>
+<text x="342" y="30" xml:space="preserve"><tspan class="title">toxic@shepherd </tspan><tspan class="muted">---------------------------------------------------</tspan></text>
+<text x="342" y="45" xml:space="preserve"><tspan class="label">- Uptime: </tspan><tspan class="muted">..............................</tspan><tspan class="value"> </tspan><tspan class="value">1 year, 4 months, 14 days</tspan></text>
+<text x="342" y="60" xml:space="preserve"><tspan class="label">- Location: </tspan><tspan class="muted">.....................................</tspan><tspan class="value"> </tspan><tspan class="value">Hanover, Germany</tspan></text>
+<text x="342" y="75" xml:space="preserve"><tspan class="title">- Languages </tspan><tspan class="muted">------------------------------------------------------</tspan></text>
+<text x="342" y="90" xml:space="preserve"><tspan class="label">- Languages.Programming: </tspan><tspan class="muted">.</tspan><tspan class="value"> </tspan><tspan class="value">Python, TypeScript, C, JavaScript, Rust</tspan></text>
+<text x="342" y="105" xml:space="preserve"><tspan class="label">- Languages.Computer: </tspan><tspan class="muted">.........</tspan><tspan class="value"> </tspan><tspan class="value">HTML, CSS, SCSS, Shell, PowerShell</tspan></text>
+<text x="342" y="120" xml:space="preserve"><tspan class="title">- Contact </tspan><tspan class="muted">--------------------------------------------------------</tspan></text>
+<text x="342" y="135" xml:space="preserve"><tspan class="label">- Email: </tspan><tspan class="muted">...................................</tspan><tspan class="value"> </tspan><tspan class="value">privat@shepherd-lp.de</tspan></text>
+<text x="342" y="150" xml:space="preserve"><tspan class="label">- GitHub: </tspan><tspan class="muted">.........................................</tspan><tspan class="value"> </tspan><tspan class="value">@toxicshepherd</tspan></text>
+<text x="342" y="165" xml:space="preserve"><tspan class="title">- GitHub Stats </tspan><tspan class="muted">---------------------------------------------------</tspan></text>
+<text x="342" y="180" xml:space="preserve"><tspan class="label">- Repos: </tspan><tspan class="muted">.......................</tspan><tspan class="value"> </tspan><tspan class="num">14</tspan><tspan class="value"> </tspan><tspan class="muted">{Contributed: </tspan><tspan class="num">11</tspan><tspan class="muted">}</tspan><tspan class="value">  |  Stars: </tspan><tspan class="num">0</tspan></text>
+<text x="342" y="195" xml:space="preserve"><tspan class="label">- Commits: </tspan><tspan class="muted">....................................................</tspan><tspan class="value"> </tspan><tspan class="num">63</tspan></text>
+<text x="342" y="210" xml:space="preserve"><tspan class="label">- Followers: </tspan><tspan class="muted">...................................................</tspan><tspan class="value"> </tspan><tspan class="num">0</tspan></text>
+<text x="342" y="225" xml:space="preserve"><tspan class="label">- Lines of Code: </tspan><tspan class="muted">....................</tspan><tspan class="value"> </tspan><tspan class="num">51,736</tspan><tspan class="value"> </tspan><tspan class="muted">(</tspan><tspan class="value"> </tspan><tspan class="green">53,892++</tspan><tspan class="muted">,</tspan><tspan class="value"> </tspan><tspan class="red">2,156--</tspan><tspan class="value"> </tspan><tspan class="muted">)</tspan></text>
+</svg>

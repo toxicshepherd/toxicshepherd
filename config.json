@@ -1,0 +1,44 @@
+{
+  "_comment": "Platzhalter in {geschweiften Klammern} fuellt generate.py mit Live-Daten. Farbmarkierung: [[num|42]], [[green|+1]], [[red|-1]], [[orange|!]], [[muted|nebensache]]. Zeilen wie OS, Host, Kernel, IDE oder Hobbies kannst du frei ergaenzen - sie standen hier nur nicht drin, weil sie sich nicht aus deinen Repos ableiten liessen.",
+
+  "_hinweis_oeffentlich": "Dieses Repo ist zwingend public. Alles hier steht damit im Netz. Das GitHub-Konto ist pseudonym (toxicshepherd) - Klarname, private Mailadressen und Kunden- oder Infrastrukturdetails gehoeren deshalb nicht in diese Datei.",
+
+  "github_username": "toxicshepherd",
+  "header": { "user": "toxic", "host": "shepherd" },
+  "birthday": null,
+  "ascii_art": "ascii_art.txt",
+  "card_width": 66,
+
+  "blocks": [
+    {
+      "title": null,
+      "rows": [
+        ["Uptime", "{uptime}"],
+        ["Location", "Hanover, Germany"]
+      ]
+    },
+    {
+      "title": "Languages",
+      "rows": [
+        ["Languages.Programming", "Python, TypeScript, C, JavaScript, Rust"],
+        ["Languages.Computer", "HTML, CSS, SCSS, Shell, PowerShell"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "rows": [
+        ["Email", "privat@shepherd-lp.de"],
+        ["GitHub", "@{login}"]
+      ]
+    },
+    {
+      "title": "GitHub Stats",
+      "rows": [
+        ["Repos", "[[num|{repos}]] [[muted|{Contributed: ]][[num|{contributed}]][[muted|}]]  |  Stars: [[num|{stars}]]"],
+        ["Commits", "[[num|{commits}]]"],
+        ["Followers", "[[num|{followers}]]"],
+        ["Lines of Code", "[[num|{loc}]] [[muted|(]] [[green|{loc_added}++]][[muted|,]] [[red|{loc_deleted}--]] [[muted|)]]"]
+      ]
+    }
+  ]
+}
