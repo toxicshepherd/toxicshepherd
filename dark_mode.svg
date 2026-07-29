@@ -22,7 +22,7 @@
 <text class="art" x="18" y="315" xml:space="preserve">           ......................</text>
 <text class="art" x="18" y="330" xml:space="preserve">              ................</text>
 <text x="342" y="30" xml:space="preserve"><tspan class="title">toxic@shepherd </tspan><tspan class="muted">---------------------------------------------------</tspan></text>
-<text x="342" y="45" xml:space="preserve"><tspan class="label">- Uptime: </tspan><tspan class="muted">...............................</tspan><tspan class="value"> </tspan><tspan class="value">1 year, 5 months, 2 days</tspan></text>
+<text x="342" y="45" xml:space="preserve"><tspan class="label">- Uptime: </tspan><tspan class="muted">...............................</tspan><tspan class="value"> </tspan><tspan class="value">1 year, 5 months, 3 days</tspan></text>
 <text x="342" y="60" xml:space="preserve"><tspan class="label">- Location: </tspan><tspan class="muted">.....................................</tspan><tspan class="value"> </tspan><tspan class="value">Hanover, Germany</tspan></text>
 <text x="342" y="75" xml:space="preserve"><tspan class="title">- Languages </tspan><tspan class="muted">------------------------------------------------------</tspan></text>
 <text x="342" y="90" xml:space="preserve"><tspan class="label">- Languages.Programming: </tspan><tspan class="muted">.</tspan><tspan class="value"> </tspan><tspan class="value">Python, TypeScript, C, JavaScript, Rust</tspan></text>
